@@ -1,0 +1,27 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "User app for offline web search",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OfflineWeb/front-end.git"
+  },
+  "author": "Papa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OfflineWeb/front-end/issues"
+  },
+  "homepage": "https://github.com/OfflineWeb/front-end#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "hbs-utils": "0.0.4",
+    "request": "^2.88.2",
+    "server": "^1.0.29"
+  }
+}
